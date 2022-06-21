@@ -567,12 +567,12 @@ footer{
     }
 
     .review{
-        padding: 70px 20px;
-        width: 70%;
+        padding: 60px 10px;
+        width: 80%;
         background-color: #fff;
         position: absolute;
-        bottom: -2100px;
-        left: 8%;
+        bottom: -2000px;
+        left: 10%;
     }
 
     .more_info h2{
