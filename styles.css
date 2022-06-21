@@ -60,9 +60,9 @@ nav{
 /* HERO SECTION STARTS HERE */
 .hero_section{
     background: #f9f8f7;
-    height: 90vh;
+    height: 60vh;
     text-align: center;
-    padding-top:250px ;
+    padding-top:100px ;
 
 }
 
@@ -506,7 +506,7 @@ footer{
         position: fixed;
         left: -100%;
         background-color: #fff;
-        width: 40%;
+        width: 100%;
         margin-top: 10rem;
         padding: 50px;
         transition: 0.9s ease-in-out;
@@ -525,7 +525,7 @@ footer{
 
     .hero_section h1{
         font-size: 25px;
-        width: 80%;
+        width: 100%;
     }
 
     .hero_section p{
@@ -538,13 +538,6 @@ footer{
         height: 35px;
     }
     
-    .hero_section{
-        background: #f9f8f7;
-        height: 90vh;
-        text-align: center;
-        padding-top:150px ;
-    
-    }
 
     .img_slides img{
         width: 90%;
@@ -578,7 +571,7 @@ footer{
         width: 70%;
         background-color: #fff;
         position: absolute;
-        bottom: -2500px;
+        bottom: -2100px;
         left: 8%;
     }
 
